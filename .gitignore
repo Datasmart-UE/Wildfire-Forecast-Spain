@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datos pesados (opcional)
+*.csv
+*.geojson
+*.tif
+*.zip
+
+# Entorno virtual
+.env/
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Spyder / VS Code
+.vscode/
+.spyderproject
+.spyproject
+
+# Logs
+*.log
